@@ -4,8 +4,11 @@
 * Cold Outreach/Networking Deliverable
     * Blog Post: [Link to Gist with deliverables](https://gist.github.com/the-oem/658baf2b0d2e76aaf0eeb0725e257508)
 * Link to your completed Turing portfolio with 2 additional projects:
+    * [Turing Alumni Profile](https://www.turing.io/alumni/jason-collins)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+    * [Interview Practice Gist](https://gist.github.com/the-oem/81fa99615b8d038a56b74188d7a2eac4)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+    * [Post-Grad Job Search Gist](https://gist.github.com/the-oem/482b422add36159f1c4746094ec0f139)
 
 ## Mod 3 Deliverables:
 * Link to resume: [JC Resume](https://the-oem.github.io/assets/JGC-resume-2017.pdf)
